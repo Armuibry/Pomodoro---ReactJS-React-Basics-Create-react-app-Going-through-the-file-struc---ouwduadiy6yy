@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttons {
+  justify-content: center;
+  text-align: center;
+}
+
+.input {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
+
+input {
+  width: 200px;
+  height: 20px;
+  align-self: center;
+  justify-self: center;
+  margin-top: 10px;
+}
+button {
+  text-align: center;
+}
+span {
+  text-align: center;
+  margin-top: -40px;
+  margin-bottom: 20px;
+}
+
+#set{
+    height: 25px;
+    width: 40px;
+    margin-top: 10px;
+    text-align: center;
+}
